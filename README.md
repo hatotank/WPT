@@ -1,5 +1,6 @@
 # WPT (WatchPet Twitter client)
 こんな感じでEPSON TM-T88IV(有線LANモデル) を用いてTwitterのタイムラインを印刷。
+![サンプル画像](https://user-images.githubusercontent.com/34410544/164953390-f7dc04d9-0a13-4bb8-940e-ab776798ac69.jpg)
 
 ※開発当時の画像なので若干古いです。
 
@@ -12,12 +13,14 @@
 
 タイムライン取得にはTweepyを使用するので、APIキーセット(要開発者登録)が必要になります。
 
-アプリ名の予定は「TM Twitter client」でしたが、散々(https://twitter.com/kurumi_pgm)をテストに使用してたので、感謝と[ユーモア](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%83%89%E3%83%83%E3%82%B0%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC)を込めて…
+アプリ名は「TM Twitter client」でしたが、散々 [https://twitter.com/kurumi_pgm](https://twitter.com/kurumi_pgm) をテストに使用してたので、感謝と [ユーモア](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%83%89%E3%83%83%E3%82%B0%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC) を込めて…
 
 ## 制限事項
 漢字コマンド使用のためプリンタは日本語(他に簡体字中国語/繁体字中国語モデル含む)限定
+
 動作は多分Windowsのみ(seguiemj.ttfとGUIのタスクトレイ等)
-ツイート系の処理は本質でなかったので適当になりました！ごめんな！
+
+ツイート系の処理は本質でなかったので適当になりました！
 
 ## 印字文字
 |文字|使用フォント|
@@ -78,9 +81,10 @@ TECH.REFERENCE
 5. tmclient.pyを実行
 
 ## 説明画像(メイン)
-
+![説明画像(メイン)](https://user-images.githubusercontent.com/34410544/164953345-8ed6def3-d6c8-48c9-9165-928b1c3958a9.png)
 
 ## 説明画像(タスクトレイ)
+![説明画像(タスクトレイ)](https://user-images.githubusercontent.com/34410544/164953371-b57ce137-929b-439c-9a3b-3b20113b42c0.png)
 
 
 ## フォルダ構成
