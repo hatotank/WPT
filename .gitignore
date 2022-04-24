@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# WPT
+JIS0201.TXT
+JIS0208.TXT
+JIS0212.TXT
+Noto_sans_JP.zip
+NotoSansJP-Medium.otf
+seguiemj.ttf
+unifont_jp-*
